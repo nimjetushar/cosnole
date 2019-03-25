@@ -1,0 +1,26 @@
+{
+  "name": "cosnole",
+  "version": "1.0.0",
+  "description": "Don't worry about console typo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nimjetushar/cosnole.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nimjetushar/cosnole/issues"
+  },
+  "homepage": "https://github.com/nimjetushar/cosnole#readme",
+  "devDependencies": {
+    "jest": "^24.5.0"
+  },
+  "jest": {
+    "verbose": true
+  }
+}
